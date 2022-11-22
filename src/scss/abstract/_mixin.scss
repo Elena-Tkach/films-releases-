@@ -1,0 +1,83 @@
+@mixin list-reset {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@mixin box-shadow($x: 0, $y: 2px, $blur: 8px, $spread: 0, $color: $default) {
+    -webkit-box-shadow: $x $y $blur $spread $color;
+    -moz-box-shadow: $x $y $blur $spread $color;
+    box-shadow: $x $y $blur $spread $color;
+}
+
+@mixin bg-overlay-gradient(
+    $color: rgba(0, 0, 0, 0.167),
+    $deg: 0,
+    $color-first: rgba(0, 0, 0, 0.6),
+    $percent-first: 0%,
+    $color-middle: rgba(0, 0, 0, 0.4),
+    $percent-middle: 40%,
+    $color-second: rgba(0, 0, 0, 0.6),
+    $percent-second: 100%
+) {
+    background: $color;
+    background: linear-gradient(
+        $deg,
+        $color-first $percent-first,
+        $color-middle $percent-middle,
+        $color-second $percent-second
+    );
+}
+
+@mixin font($weight: 300, $size: 18px, $family: sans-serif) {
+    font: $weight $size $family;
+}
+
+//adaptive
+@mixin laptopM-1880 {
+    @media (min-width: 1880px) {
+        @content;
+    }
+}
+
+@mixin laptopM-1700 {
+    @media (min-width: 1700px) {
+        @content;
+    }
+}
+
+@mixin laptopM-1440 {
+    @media (min-width: 1440px) {
+        @content;
+    }
+}
+
+@mixin laptopM-1200 {
+    @media (min-width: 1200px) {
+        @content;
+    }
+}
+
+@mixin tablet-992 {
+    @media (min-width: 992px) {
+        @content;
+    }
+}
+
+@mixin tablet-768 {
+    @media (min-width: 768px) {
+        @content;
+    }
+}
+
+@mixin mobile-567 {
+    @media (min-width: 567px) {
+        @content;
+    }
+}
+
+@mixin mobile-425 {
+    @media (min-width: 425px) {
+        @content;
+    }
+}

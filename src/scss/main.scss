@@ -32,7 +32,8 @@
   margin-bottom: 40px;
 }
 
-.movie-card__duration--hidden {
+.movie-card__duration--hidden,
+.movie-card__rating--null {
   display: none;
 }
 
@@ -45,4 +46,4 @@
   color: #fff;
   padding: 10px 40px;
   background: #000;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */

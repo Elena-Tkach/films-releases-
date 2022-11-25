@@ -1,0 +1,256 @@
+{
+  "releases": [
+    {
+      "filmId": 1445165,
+      "nameRu": "Красная Шапочка",
+      "nameEn": null,
+      "year": 2022,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1445165.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1445165.jpg",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "rating": 4.426,
+      "ratingVoteCount": 9165,
+      "expectationsRating": 92.44,
+      "expectationsRatingVoteCount": 1790,
+      "duration": 96,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "filmId": 1096965,
+      "nameRu": "Разгневанная душа",
+      "nameEn": "Aiyai: Wrathful Soul",
+      "year": 2020,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1096965.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1096965.jpg",
+      "countries": [
+        {
+          "country": "Австралия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "детектив"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 196,
+      "expectationsRating": null,
+      "expectationsRatingVoteCount": 4,
+      "duration": 83,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "filmId": 5118037,
+      "nameRu": "Человек 2.0. Ре-эволюция",
+      "nameEn": "Man 2.0 R-Evolution",
+      "year": 2019,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5118037.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5118037.jpg",
+      "countries": [
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 10,
+      "expectationsRating": null,
+      "expectationsRatingVoteCount": 0,
+      "duration": 52,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "filmId": 5117634,
+      "nameRu": "Покорители космоса",
+      "nameEn": "Les Maîtres De L'espace",
+      "year": 2022,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5117634.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5117634.jpg",
+      "countries": [
+        {
+          "country": "Франция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 4,
+      "expectationsRating": null,
+      "expectationsRatingVoteCount": 17,
+      "duration": 52,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "filmId": 5103856,
+      "nameRu": "Африка и я",
+      "nameEn": "Africa and I",
+      "year": 2021,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5103856.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5103856.jpg",
+      "countries": [
+        {
+          "country": "ЮАР"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 8,
+      "expectationsRating": null,
+      "expectationsRatingVoteCount": 0,
+      "duration": 90,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "filmId": 5118068,
+      "nameRu": "Дневники доброты",
+      "nameEn": "Kindness Diaries, The",
+      "year": 2017,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5118068.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5118068.jpg",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "реальное ТВ"
+        },
+        {
+          "genre": "приключения"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 8,
+      "expectationsRating": null,
+      "expectationsRatingVoteCount": 0,
+      "duration": 30,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "filmId": 5130731,
+      "nameRu": "Наш автоэксперт",
+      "nameEn": "Our Auto Expert",
+      "year": 2021,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5130731.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5130731.jpg",
+      "countries": [],
+      "genres": [],
+      "rating": null,
+      "ratingVoteCount": 6,
+      "expectationsRating": null,
+      "expectationsRatingVoteCount": 0,
+      "duration": 30,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "filmId": 5130722,
+      "nameRu": "Спецназ животного мира",
+      "nameEn": "Animal Special Forces",
+      "year": 2018,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5130722.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5130722.jpg",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Чехия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 6,
+      "expectationsRating": null,
+      "expectationsRatingVoteCount": 0,
+      "duration": 60,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "filmId": 1430638,
+      "nameRu": "",
+      "nameEn": "Independent, The",
+      "year": 2022,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1430638.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1430638.jpg",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        }
+      ],
+      "rating": null,
+      "ratingVoteCount": 29,
+      "expectationsRating": null,
+      "expectationsRatingVoteCount": 69,
+      "duration": 108,
+      "releaseDate": "2022-11-02"
+    },
+    {
+      "filmId": 4661311,
+      "nameRu": "Переговорщик",
+      "nameEn": null,
+      "year": 2022,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4661311.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4661311.jpg",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "детектив"
+        }
+      ],
+      "rating": 7.202,
+      "ratingVoteCount": 1722,
+      "expectationsRating": 97.03,
+      "expectationsRatingVoteCount": 672,
+      "duration": 50,
+      "releaseDate": "2022-11-03"
+    }
+  ],
+  "page": 2,
+  "total": 150
+}
